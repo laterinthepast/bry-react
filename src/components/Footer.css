@@ -1,0 +1,27 @@
+footer .container {
+    display: flex;
+    height: 20rem;
+    justify-content: space-around;
+    align-items: center;
+    width: 20rem;
+}
+
+.footnote {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+.fa-etsy, .fa-facebook-f, .fa-instagram, fa-envelope {
+    font-size: 2rem;
+}
+a:hover {
+    transform: scale(1.2);
+    transition: all 0.22s ease-out;
+    color: #e9c46a;
+}
+
+footer h6 {
+    text-align: center;
+}

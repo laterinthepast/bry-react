@@ -1,0 +1,38 @@
+.about_me_wrapper {
+    padding: 20rem;
+}
+
+.about_me_section {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about_me_section img {
+    width: 25rem;
+    padding: 1.5rem;  
+}
+.about_me_section p {
+    padding-left: 2rem;
+}
+.profile_photo{
+        filter: drop-shadow(0 0 0.75rem #000);
+}
+@media only screen and (max-width:768px){
+    .about_me_wrapper {
+        padding: 2rem;
+    }
+    .about_me_section {
+        flex-direction: column;
+    }
+    .about_me_section img {
+        width: 15rem;
+        padding: 1.5rem;  
+    }
+    .about_me_section p {
+        font-size:0.9rem;
+        margin:0;
+        padding:0;
+    }
+}
+
+
