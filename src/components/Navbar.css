@@ -14,6 +14,7 @@
 }
 .social-link a {
     color: #fff;
+    text-decoration: none;
 }
 .fa-etsy, .fa-facebook-f, .fa-instagram, fa-envelope {
     font-size: 2rem;
@@ -31,6 +32,14 @@ a:hover {
     .social-link {
         width: 100px;
         display: flex;
-        justify-content: space-evenly;  
+        justify-content: space-evenly; 
+        
     }
+    .social-link a {
+        padding:0.5rem;
+    }
+}
+
+@media only screen and (max-width:380px){
+    
 }

@@ -3,7 +3,7 @@ import React from 'react'
 
 function Photo(props) {
     return (<>
-        <div class="img_container">
+        <div className="img_container">
             <img src={props.src} alt="" data-original="image" />
         </div>
     </>

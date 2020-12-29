@@ -3,12 +3,11 @@ import './Navbar.css'
 
 function Navbar() {
     return (<>
-        <nav class="navbar">
+        <nav className="navbar">
             
-            <div class="social-link">
-                <a href="https://www.instagram.com/mellerdramatic/"><span class="fab fa-instagram"></span></a>
-                <a href="https://teespring.com/stores/mellerdramatic"><i class="fab fa-facebook-f"
-                    aria-hidden="true"></i></a>
+            <div className="social-link">
+                <a href="https://www.instagram.com/mellerdramatic/"><span className="fab fa-instagram"></span></a>
+                <a href="https://teespring.com/stores/mellerdramatic">my.shop</a>
             </div>
         </nav>
     </>

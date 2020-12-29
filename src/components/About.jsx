@@ -3,10 +3,10 @@ import './About.css'
 
 function About() {
     return (
-            <div class="about_me_wrapper">
-                <div class="about_me_section">
+            <div className="about_me_wrapper">
+                <div className="about_me_section">
                 
-                    <img class="profile_photo" src="/images/bry profile.jpg" alt=""></img>
+                    <img className="profile_photo" src="/images/bry profile.jpg" alt=""></img>
                 
                 
                     <p>

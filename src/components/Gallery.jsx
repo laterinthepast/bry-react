@@ -7,51 +7,51 @@ function Gallery(){
     return(
     
     <SRLWrapper>
-    <div class="gallery_">
+    <div className="gallery_">
         <Photo
-            src="/images/img-1.png"
+            src="/images/1.jpg"
         />
         <Photo
-            src="/images/img-2.png"
+            src="/images/2.jpg"
         />
         <Photo
-            src="/images/img-3.png"
+            src="/images/3.jpg"
         />
         <Photo
-            src="/images/img-4.png"
+            src="/images/4.jpg"
         />
         <Photo
-            src="/images/img-5.png"
+            src="/images/5.jpg"
         />
         <Photo
-            src="/images/img-6.png"
+            src="/images/6.jpg"
         />
         <Photo
-            src="/images/img-7.png"
+            src="/images/7.jpg"
         />
         <Photo
-            src="/images/img-8.png"
+            src="/images/8.jpg"
         />
         <Photo
-            src="/images/img-9.png"
+            src="/images/9.jpg"
         />
         <Photo
-            src="/images/img-10.png"
+            src="/images/10.jpg"
         />
         <Photo
-            src="/images/img-11.png"
+            src="/images/11.jpg"
         />
         <Photo
-            src="/images/img-12.png"
+            src="/images/12.jpg"
         />
         <Photo
-            src="/images/img-1.png"
+            src="/images/13.jpg"
         />
         <Photo
-            src="/images/img-2.png"
+            src="/images/14.jpg"
         />
         <Photo
-            src="/images/img-2.png"
+            src="/images/15.jpg"
         />
         
         
