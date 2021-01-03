@@ -10,12 +10,9 @@ function About() {
                 
                 
                     <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                        scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
-                        into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
-                        release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
-                        software like Aldus PageMaker including versions of Lorem Ipsumv
+                    For Bry, the art of creating a bespoke tattoo is a method of showing a client’s unique self, from the inside, on the outside. 
+                    She has pursued an interest in the arts since a young age, studying Illustration at Norwich University of the Arts and graduating with a 2.1 in 2018. Since completing her degree she proceeded to start her tattoo apprenticeship under the guidance of the talented LaVale TatYou in 2019. Her work revolves around a deep set interest and passion for the natural world, especially lesser known and lesser appreciated plants and animals. 
+                    Currently her focus has been centred on perfecting her linework and dotwork tattoo styles, and in 2021 she is determined to develop her practice in coloured pieces, particularly using darker, earthy tones and creating illustrative work inspired by neo-traditional tattooing. 
             
                 </p>
             
