@@ -30,6 +30,7 @@
     }
     .about_me_section img {
         width: 15rem;
+        height:auto;
         padding: 1.5rem;  
     }
     .about_me_section p {
