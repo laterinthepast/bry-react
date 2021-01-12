@@ -1,0 +1,59 @@
+.logo-labelh1 {
+  font-size: 5rem;
+  font-weight: 300;
+  letter-spacing: 0.3rem;
+  margin: 0;
+  z-index: 999;
+  color: #fff;
+}
+
+.logo-labelh3 {
+  font-size: 1rem;
+  font-weight: 800;
+  text-align: right;
+  margin: 0;
+  color: #e9c46a;
+  z-index: 999;
+}
+
+.landing_page {
+  background: url("../background1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.logo-name {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 768px) {
+  .logo-labelh1 {
+    font-size: 3rem;
+    font-weight: 100;
+    letter-spacing: 0rem;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .logo-labelh1 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0rem;
+  }
+}
+/*# sourceMappingURL=HeroSection.css.map */

@@ -1,5 +1,5 @@
 import React from 'react'
-import './Footer.css'
+import '../styles/Footer.css'
 
 function Footer(){
     return( 
@@ -11,7 +11,6 @@ function Footer(){
                 <i className="fab fa-etsy" aria-hidden="true" alt=""></i></a>
             <a href="https://teespring.com/stores/mellerdramatic">my.shop</a>
         </div>
-        
         <h6>  all rights reserved 2021 &reg; mellerdramatic</h6>
         
             

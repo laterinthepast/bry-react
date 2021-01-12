@@ -1,0 +1,41 @@
+footer .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 15rem;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+footer .container a {
+  color: black;
+  text-decoration: none;
+}
+
+.fa-etsy, .fa-facebook-f, .fa-instagram {
+  font-size: 2rem;
+}
+
+a:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  -webkit-transition: all 0.22s ease-out;
+  transition: all 0.22s ease-out;
+  color: #e9c46a;
+}
+
+footer h6 {
+  text-align: center;
+  font-size: 0.7rem;
+}
+
+@media only screen and (max-width: 320px) {
+  .container a {
+    font-size: 0.6rem;
+  }
+}
+/*# sourceMappingURL=Footer.css.map */

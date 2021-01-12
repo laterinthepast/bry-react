@@ -1,0 +1,59 @@
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  padding: 2rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.social-link {
+  width: 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -ms-flex-pack: space-evenly;
+  justify-content: space-evenly;
+}
+
+.social-link a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.social-link a:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  -webkit-transition: all 0.22s ease-out;
+  transition: all 0.22s ease-out;
+  color: #e9c46a;
+}
+
+.fa-etsy, .fa-facebook-f, .fa-instagram, fa-envelope {
+  font-size: 2rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar {
+    padding: 1rem;
+  }
+  .social-link {
+    width: 100px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+  }
+  .social-link a {
+    padding: 0.5rem;
+  }
+}
+/*# sourceMappingURL=Navbar.css.map */

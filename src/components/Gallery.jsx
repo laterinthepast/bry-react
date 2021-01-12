@@ -1,5 +1,5 @@
 import React from 'react'
-import './Gallery.css'
+import '../styles/Gallery.css'
 import { SRLWrapper } from 'simple-react-lightbox';
 import Photo from './Photo'
 
@@ -53,8 +53,6 @@ function Gallery() {
                 <Photo
                     src="/images/15.jpg"
                 />
-                
-
             </div>
         </SRLWrapper>
 
